@@ -1,0 +1,12 @@
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\bin\Debug\net6.0\BFG.Shared.deps.json
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\bin\Debug\net6.0\BFG.Shared.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\bin\Debug\net6.0\ref\BFG.Shared.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\bin\Debug\net6.0\BFG.Shared.pdb
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.AssemblyInfoInputs.cache
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.AssemblyInfo.cs
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\ref\BFG.Shared.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.pdb
+C:\Users\Timmy\BFGVenturesApp\BFG.Shared\obj\Debug\net6.0\BFG.Shared.csproj.AssemblyReference.cache

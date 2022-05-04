@@ -1,0 +1,12 @@
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\bin\Debug\net6.0\BFG.Infrastructure.deps.json
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\bin\Debug\net6.0\BFG.Infrastructure.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\bin\Debug\net6.0\ref\BFG.Infrastructure.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\bin\Debug\net6.0\BFG.Infrastructure.pdb
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.AssemblyInfo.cs
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\ref\BFG.Infrastructure.dll
+C:\Users\Timmy\BFGVenturesApp\BFG.Infrastructure\obj\Debug\net6.0\BFG.Infrastructure.pdb
